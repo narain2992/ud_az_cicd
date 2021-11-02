@@ -1,6 +1,18 @@
 # azure-cicd
 
+
 Azure CI/CD
+
+Overview
+This project titled 'Building a CI/CD Pipeline' project is part of the 'DevOps Engineer for Microsoft Azure' Udacity nanodegree program.
+
+The objective of the python application in this project is to predict housing prices in Boston. 
+This repo will enable you to:
+
+Deploy the app in Azure CloudShell
+Deploy the app as an Azure App Service
+Any commits to the GitHub repo trigger automated code testing using 
+GitHub Actions ensures that the code commits to the repository triggers an automated testing job. The pipeline in Azure DevOps, and the updated code is also automatically tested in Azure DevOps and deployed to the Azure App Service.
 
 Project Timeline Trello board - https://trello.com/b/1cuoVD4k/azcicd
 
