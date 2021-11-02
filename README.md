@@ -1,9 +1,7 @@
-# azure-cicd
 
+# Azure CI/CD
 
-Azure CI/CD
-
-Overview
+# Overview
 This project titled 'Building a CI/CD Pipeline' project is part of the 'DevOps Engineer for Microsoft Azure' Udacity nanodegree program.
 
 The objective of the python application in this project is to predict housing prices in Boston. 
