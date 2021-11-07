@@ -16,6 +16,8 @@ Project Timeline Trello board - https://trello.com/b/1cuoVD4k/azcicd
 
 Project Timeline Spreadheet - https://github.com/narain2992/ud_az_cicd/blob/main/AzureCICD_project_timeline.xlsx
 
+Project Demo Video - https://youtu.be/jvwVc1S0qDo
+
 
 #this is edited from cloud shell again
 [![CI](https://github.com/robertnick04/azure-cicd/actions/workflows/main.yml/badge.svg)](https://github.com/robertnick04/azure-cicd/actions/workflows/main.yml)
